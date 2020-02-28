@@ -5,3 +5,5 @@ Maintain a list of great food places in SF
 ---|---
 Lisa Leese | Flour + Water
 Ben Griep | San Tung
+Parsa Rahimi | Maykadeh
+Isaiah Gentle | Bizza

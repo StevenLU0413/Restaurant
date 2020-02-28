@@ -6,3 +6,4 @@ Maintain a list of great food places in SF
 Lisa Leese | Flour + Water
 Parsa Rahimi | Maykadeh
 Isaiah Gentle | Bizza
+Saheel Hirani | Round Table

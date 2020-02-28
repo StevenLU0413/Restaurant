@@ -7,3 +7,4 @@ Lisa Leese | Flour + Water
 Ben Griep | San Tung
 Parsa Rahimi | Maykadeh
 Isaiah Gentle | Bizza
+Gurjot Kaur | The Spice Jar

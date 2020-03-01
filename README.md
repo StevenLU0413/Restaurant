@@ -9,3 +9,4 @@ Parsa Rahimi | Maykadeh
 Isaiah Gentle | Bizza
 Gurjot Kaur | The Spice Jar
 Saheel Hirani | Round Table
+Ethan Fagin | The Derm

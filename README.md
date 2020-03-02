@@ -7,6 +7,7 @@ Lisa Leese | Flour + Water
 Ben Griep | San Tung
 Parsa Rahimi | Maykadeh
 Isaiah Gentle | Bizza
+Phillip Lai | Sweet Tomatoes
 Gurjot Kaur | The Spice Jar
 Saheel Hirani | Round Table
 Ethan Fagin | The Derm

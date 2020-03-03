@@ -12,3 +12,4 @@ Gurjot Kaur | The Spice Jar
 Saheel Hirani | Round Table
 Ethan Fagin | The Derm
 Perla Molina | Nande-Ya
+Steven Li | Ju Ni
